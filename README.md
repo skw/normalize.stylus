@@ -1,4 +1,8 @@
-normalize.stylus
-================
+## normalize.stylus
 
-Normalize.stylus
+A port to [Stylus](https://github.com/learnboost/stylus) of [normalize.css](https://github.com/necolas/normalize.css).
+
+## Acknowledgements
+
+Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
+co-created with [Jonathan Neal](https://github.com/jonathantneal).
