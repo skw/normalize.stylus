@@ -2,6 +2,20 @@
 
 A port to [Stylus](https://github.com/learnboost/stylus) of [normalize.css](https://github.com/necolas/normalize.css).
 
+## Installing
+
+via [Bower](https://github.com/bower/bower):
+
+```
+$ bower install normalize-stylus
+```
+
+via component [Component](https://github.com/component/component):
+
+```
+$ component install skw/normalize.stylus
+```
+
 ## Contributing
 
 Pull requests are welcome.
