@@ -1,0 +1,16 @@
+{
+  "name": "normalize-stylus",
+  "version": "2.1.2",
+  "main": "./assets",
+  "author": "Shaun Kirk Wong"
+  "ignore": [
+    "package.json",
+    ".gitignore",
+    "component.json",
+    "normalize.css",
+    "test.html"
+  ],
+  "dependencies": {
+    "stylus": "<version>"
+  }
+}

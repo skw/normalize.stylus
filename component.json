@@ -1,0 +1,10 @@
+{
+  "name": "normalize-stylus",
+  "repo": "skw/normalize.stylus"
+  "version": "2.1.2",
+  "description": "Nomalize.css ported to Stylus.",
+  "keywords": ["CSS", "stylus", "normalize", "reset"],
+  "styles": ["normalize.styl"],
+  "author": "Shaun Kirk Wong",
+  "license": "MIT"
+}
