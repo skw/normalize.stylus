@@ -1,7 +1,7 @@
 {
   "name": "normalize-stylus",
   "version": "2.1.2",
-  "main": "./assets",
+  "main": "./normalize.styl",
   "author": "Shaun Kirk Wong"
   "ignore": [
     "package.json",
