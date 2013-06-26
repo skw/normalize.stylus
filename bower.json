@@ -9,8 +9,5 @@
     "component.json",
     "normalize.css",
     "test.html"
-  ],
-  "dependencies": {
-    "stylus": "<version>"
-  }
+  ]
 }
